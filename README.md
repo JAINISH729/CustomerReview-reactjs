@@ -1,5 +1,8 @@
 # CustomerReview-reactjs
 
+⚠️IMPORTANT NOTE:
+Node_Module is not attached....
+
 <img width="1917" height="986" alt="Screenshot 2026-03-10 204748" src="https://github.com/user-attachments/assets/d8e8e200-eb3f-45f9-8ecf-8642f04b8412" />
 <img width="1526" height="890" alt="Screenshot 2026-03-10 204911" src="https://github.com/user-attachments/assets/dbe1492b-d7c0-47cf-ae3a-7fcfd2df2445" />
 
